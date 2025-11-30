@@ -1,0 +1,4 @@
+jobs.db
+job_applications_*.csv
+.streamlit/
+__pycache__/
